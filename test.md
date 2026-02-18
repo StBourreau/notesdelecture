@@ -5,4 +5,4 @@ in_menu: true
 ---
 Alors c'est une image !
 
-![Équation de Schrödinger]({% link images/Équation de Schrödinger.png %}) 
+![Équation de Schrödinger]({% link images/EquationdeSchrodinger.png %}) 
