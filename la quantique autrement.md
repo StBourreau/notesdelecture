@@ -7,4 +7,6 @@ in_menu: true
 Julien Bobrof
 Illustrations de Camille Delbard (copine de Simon Chapillon)
 
-Sommaire 
+Sommaire
+
+<a ref="https://stbourreau.github.io/notesdelecture/i%20dualite%20onde–particules%20—%20ii%20fonction%20d'onde%20ψ%20-psi-.html"> I Dualité onde–particules — II Fonction d'onde Ψ (psi)</a> 
