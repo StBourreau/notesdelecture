@@ -3,11 +3,12 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
-# Deuxième site
-Parce que j'ai planté le premier, je ne sais pas comment !
+# Pour tester
+Et voir si ça peut être utile !
 
-Le fichier sur la quantique était peut-être trop lourd !
+Never stop learning, because life never stops teaching.
 
-Du coup j'ai créé celui-ci. Qui ne fonctionne pas non plus !
+![Couverture du hors série du Monde]({% link images/Couverture Quantique autrement.png 50 px %})
 
-J'ai ensuite supprimé le premier site et je modifie celui-ci pour pouvoir relancer un push !!! 
+
+![Couverture du hors série du Monde]({% link images/Couverture Quantique autrement.png % 50 px}) 
