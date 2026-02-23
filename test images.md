@@ -12,4 +12,8 @@ Never stop learning, because life never stops teaching.
   src="images/Couverture Quantique autrement.png"
   alt="Couverture du hors série du Monde consacré à la quantique sans équations"
   width="50"
-  height="80" /> 
+  height="80" />
+
+Du texte en dessous.
+
+Est-ce qu'on peut transformer une image en lien ? Ce serait bien !!! 
